@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "详情",
+  "usingComponents": {
+    "q-s-popup": "/components/QS-popup/QS-popup"
+  }
+}

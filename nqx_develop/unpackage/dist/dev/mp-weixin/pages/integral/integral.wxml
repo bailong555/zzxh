@@ -1,0 +1,1 @@
+<view class="data-v-4c8f62f7"><view class="integral-header data-v-4c8f62f7"><view class="_p data-v-4c8f62f7"><text class="data-v-4c8f62f7">{{status}}</text>积分</view><view class="_p data-v-4c8f62f7"><text data-event-opts="{{[['tap',[['per',['$event']]]]]}}" bindtap="__e" class="data-v-4c8f62f7">积分明细</text></view></view></view>

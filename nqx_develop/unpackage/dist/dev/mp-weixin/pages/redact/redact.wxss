@@ -1,0 +1,54 @@
+.content.data-v-4ff6ebd2 {
+  width: 100%;
+  height: 1600rpx;
+  background: #F5F5F5;
+  position: relative;
+}
+.content image.data-v-4ff6ebd2 {
+  width: 60rpx;
+  height: 60rpx;
+  border: 1rpx dashed #000;
+  margin: 30rpx;
+}
+.content .aaa.data-v-4ff6ebd2 {
+  height: 600rpx;
+  background: #FFFFFF;
+}
+.content .aaa .head.data-v-4ff6ebd2 {
+  width: 100%;
+  height: 20%;
+}
+.content .aaa .head text.data-v-4ff6ebd2 {
+  position: relative;
+  top: -45%;
+  font-weight: 800;
+}
+.content .aaa .redact.data-v-4ff6ebd2 {
+  width: 100%;
+  height: 85%;
+}
+.content .aaa .redact .con.data-v-4ff6ebd2 {
+  width: 90%;
+  height: 12%;
+  margin: 20rpx auto;
+  border-bottom: 1rpx solid #000;
+}
+.content .aaa .redact .con text.data-v-4ff6ebd2 {
+  font-size: 30rpx;
+  color: #545454;
+  float: left;
+}
+.content .aaa .redact .con input.data-v-4ff6ebd2 {
+  width: 80%;
+  margin-left: 25%;
+  font-size: 26rpx;
+}
+.content .btn.data-v-4ff6ebd2 {
+  margin-top: 10%;
+  width: 90%;
+  height: 6%;
+  text-align: center;
+  border-radius: 50rpx;
+  background: #CCCCCC;
+}
+

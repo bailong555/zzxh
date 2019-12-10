@@ -1,0 +1,267 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "郑州女企协会"
+			}
+		},
+		{
+			"path": "pages/pfer",
+			"style": {
+				"navigationBarTitleText": "郑州女企协会"
+			}
+		},
+		{
+			"path": "pages/shop/shop",
+			"style": {
+				"navigationBarTitleText": "商品列表"
+				// "app-plus": {
+				// 	"titleNView": {
+				// 		"type": "transparent",
+				// 		"searchInput": {
+				// 			"backgroundColor": "rgba(231, 231, 231,.7)",
+				// 			"borderRadius": "16px",
+				// 			"placeholder": "茶叶"
+				// 			// "disabled": true
+				// 			// "placeholderColor": "#606266"
+				// 		},
+				// 		"buttons": [
+				// 			{
+				// 				"fontSrc": "/static/yticon.ttf",
+				// 				"text": "\ue744",
+				// 				"fontSize": "27",
+				// 				"color": "#303133",
+				// 				"background": "rgba(0,0,0,0)",
+				// 				"redDot": true
+				// 			}
+				// 		]
+				// 	}
+				// }
+			}
+		},
+		// {
+		// 	"path": "pages/shop/shop-details",
+		// 	"style": {
+		// 		"navigationBarTitleText": "商品列表"
+		// 	}
+		// },
+		{
+		 	"path": "pages/indent/indent",
+		 	"style": {
+		 		"navigationBarTitleText": "确认订单"
+		 	}
+		},
+		{
+			"path": "pages/site/site",
+			"style": {
+				"navigationBarTitleText": "收货地址"
+			}
+		},
+		{
+			"path": "pages/redact/redact",
+			"style": {
+				"navigationBarTitleText": "编辑地址"
+			}
+		},
+		{
+			"path": "pages/redact/redact-dev",
+			"style": {
+				"navigationBarTitleText": "完成编辑"
+			}
+		},
+		// {
+		// 	"path": "pages/shop/order",
+		// 	"style": {
+		// 		"navigationBarTitleText": "订单确认",
+		// 		"navigationBarBackgroundColor": "#ccc"
+		// 	}
+		// },
+		// {
+		// 	"path": "pages/address/address",
+		// 	"style": {
+		// 		"navigationBarTitleText": "收货地址",
+		// 		"navigationBarBackgroundColor": "#F5F5F5",
+		// 		"navigationBarTextStyle": "black"
+		// 	}
+		// },
+		// {
+		// 	"path": "pages/address/addressManage",
+		// 	"style": {
+		// 		"navigationBarTitleText": "新增收货地址",
+		// 		"navigationBarBackgroundColor": "#fff",
+		// 		"navigationBarTextStyle": "black"
+		// 	}
+		// },
+		{
+			"path": "pages/shaky/shaky",
+			"style": {
+				"navigationBarTitleText": "活动"
+			}
+		},
+		{
+			"path": "pages/prr",
+			"style": {
+				"navigationBarTitleText": "活动"
+			}
+		},
+		{
+			"path": "pages/member/member",
+			"style": {
+				"navigationBarTitleText": "会员"
+			}
+		},
+		{
+			"path": "pages/enterprise/enterprise",
+			"style": {
+				"navigationBarTitleText": "企业"
+			}
+		},
+		{
+			"path": "pages/myhome/myhome",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		},
+		{
+			"path": "pages/myhome/taken/taken",
+			"style": {
+				"navigationBarTitleText": "缴费记录"
+			}
+		},
+		{
+			"path": "pages/myhome/member/member",
+			"style": {
+				"navigationBarTitleText": "入会申请"
+			}
+		},
+		{
+			"path": "pages/myhome/dues",
+			"style": {
+				"navigationBarTitleText": "会费缴纳"
+			}
+		},
+		{
+			"path": "pages/integral/integral",
+			"style": {
+				"navigationBarTitleText": "我的积分"
+			}
+		},
+		{
+			"path": "pages/integral/integral-definite",
+			"style": {
+				"navigationBarTitleText": "积分明细"
+			}
+		},
+		{
+		 	"path": "pages/activity/activity",
+		 	"style": {
+		 		"navigationBarTitleText": "活动"
+		 	}
+		},
+		{
+		 	"path": "pages/enroll/enroll",
+		 	"style": {
+		 		"navigationBarTitleText": "活动列表"
+		 	}
+		},
+		{
+		 	"path": "pages/enroll/enroll-details",
+		 	"style": {
+		 		"navigationBarTitleText": "活动详情"
+		 	}
+		},
+		{
+		 	"path": "pages/enroll/details",
+		 	"style": {
+		 		"navigationBarTitleText": "活动详情"
+		 	}
+		},
+		{
+		 	"path": "pages/myhome/interact",
+		 	"style": {
+		 		"navigationBarTitleText": "互动"
+		 	}
+		},
+		{
+		 	"path": "pages/sign/sign-in",
+		 	"style": {
+		 		"navigationBarTitleText": "签到成功"
+		 	}
+		},
+		{
+		 	"path": "pages/sign/check-in",
+		 	"style": {
+		 		"navigationBarTitleText": "签到失败"
+		 	}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "郑州女企协会"
+			}
+		},
+		{
+			"path": "pages/register/register",
+			"style": {
+				"navigationBarTitleText": "注册"
+			}
+		},
+		{
+			"path": "pages/forget-pwd/forget-pwd",
+			"style": {
+				"navigationBarTitleText": "找回密码"
+			}
+		},
+		{
+			"path": "pages/details/details",
+			"style": {
+				"navigationBarTitleText": "详情"
+			}
+		},
+		{
+			"path": "pages/details/slogan",
+			"style": {
+				"navigationBarTitleText": "企业宣传语"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "#fff",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#FF106A"
+		// "backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#C0C4CC",
+		"selectedColor": "#fa436a",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabar_business_normal.png",
+				"selectedIconPath": "static/tabar_business_selected.png",
+				"text": "首页"
+			},
+			// {
+			// 	"pagePath": "pages/member/member",
+			// 	"iconPath": "static/tabar_home_normal.png",
+			// 	"selectedIconPath": "static/static/tabar_home_selected.png",
+			// 	"text": "会员"
+			// },
+			// {
+			// 	"pagePath": "pages/enterprise/enterprise",
+			// 	"iconPath": "static/tabar_vip_normal.png",
+			// 	"selectedIconPath": "static/static/tabar_vip_selected.png",
+			// 	"text": "企业"
+			// },
+			{
+				"pagePath": "pages/myhome/myhome",
+				"iconPath": "static/tabar_mine_normal.png",
+				"selectedIconPath": "static/tabar_mine_selected.png",
+				"text": "我的"
+			}
+		]
+	}
+}

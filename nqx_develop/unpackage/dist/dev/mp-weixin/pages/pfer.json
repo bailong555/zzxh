@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "郑州女企协会",
+  "usingComponents": {
+    "chat-input": "/components/im-chat/chatinput"
+  }
+}
